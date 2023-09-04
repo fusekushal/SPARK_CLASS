@@ -5,10 +5,10 @@ Repo to complete spark assignment
 
 ## Table of Contents
 
-- [Day 1]
-- [Day 2]
-- [Day 3]
-- [Day 4]
+- [Day 1](#day_1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+- [Day 4](#day-4)
 
 ## Day 1
 ### Chapter 1: Introduction to Apache Spark
