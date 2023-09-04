@@ -5,4 +5,4 @@
 
 ### Chapter 2: Getting Started with Spark
 
-Chapter 2 of this PySpark guide covers the basics, including understanding Spark's architecture, using SparkSession, working with DataFrames, exploring data partitions, performing data transformations, utilizing lazy evaluation, executing actions, and working with DataFrames through SQL operations.
+Chapter 2 of this PySpark assignment covers the basics, including understanding Spark's architecture, using SparkSession, working with DataFrames, exploring data partitions, performing data transformations, utilizing lazy evaluation, executing actions, and working with DataFrames through SQL operations.
